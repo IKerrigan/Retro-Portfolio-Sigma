@@ -1,0 +1,71 @@
+#header-slider, 
+#about-me-block,
+#portfolio-block,
+#my-blog-section,
+#contact-me-section{
+    background-color: #192734;
+}
+
+body {
+    color: #F6EDD8;
+}
+.retro-borders {
+    text-shadow: 1px 2px #bebebe, 3px 4px #868B94;
+}
+
+hr {
+    background-color: rgba(245, 238, 227, 0.9);
+}
+
+.hentry-content hr {
+    background-color: rgba(245, 238, 227, 0.9);
+}
+
+.columned-layout hr {
+    background-color: #e68966;
+}
+
+.blog-list hr,
+.widget hr,
+hr.single-hr,
+.comments hr {
+    background-color:rgba(245, 238, 227, 0.9);
+}
+
+.social-icons hr,
+.comments hr{
+    background-color: rgba(245, 238, 227, 0.9);
+}
+
+.light-text .hentry-content hr,
+.light-text .columned-layout hr,
+.light-text .social-icons hr,
+.light-text .blog-list hr,
+.light-text hr.single-hr,
+.light-text .comments hr,
+.light-text .widget hr {
+    background-color: rgba(245, 238, 227, 0.9);
+}
+
+
+.separator span:before,
+.separator span:after {
+    border-bottom: 2px solid rgba(245, 238, 227, 0.9);
+}
+
+a {
+    color: rgba(245, 238, 227, 0.9);
+
+}
+
+.more-posts a:before {
+    background: rgba(245, 238, 227, 0.9);
+}
+
+#w-temp {
+    color: #868B94;
+}
+
+.progress-bar__container {
+    box-shadow: 0 0 5px #F6EDD8;
+}
